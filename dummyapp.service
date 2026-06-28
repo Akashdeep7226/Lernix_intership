@@ -1,0 +1,12 @@
+[Unit]
+Description=Dummy Python App
+After=network.target
+
+[Service]
+User=ununtu
+WorkingDirectory=/home/ununtu/Desktop/learnix_intership/Lernix_intership
+ExecStart=/usr/bin/python3 /home/ununtu/Desktop/learnix_intership/Lernix_intership/app.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
