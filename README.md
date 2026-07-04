@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Track](https://img.shields.io/badge/Track-Linux%20%26%20DevOps-0078D4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Akashdeep7226)
-[![Candidate](https://img.shields.io/badge/Candidate-Subham%20Das-FF5733?style=for-the-badge&logo=user&logoColor=white)](https://github.com/Akashdeep7226)
+[![Candidate](https://img.shields.io/badge/Candidate-Akashdeep%20Das-FF5733?style=for-the-badge&logo=user&logoColor=white)](https://github.com/Akashdeep7226)
 [![Status](https://img.shields.io/badge/Status-Completed-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Akashdeep7226)
 
 </div>
